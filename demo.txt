@@ -1,3 +1,6 @@
 hello 
 world 
 this is a trial
+adding new lines
+line 2 
+line 3
